@@ -1,7 +1,5 @@
 package com.matias.springboot.backend.backendproducts.entities;
 
-import org.hibernate.annotations.IdGeneratorType;
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
